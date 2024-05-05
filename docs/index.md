@@ -31,8 +31,7 @@ If you are in your comfort zone and do not improve on anything, this could be a 
   <img src="https://github.com/Songonge/Activities/blob/main/docs/ComfortZone.png" width=50% height=50% alt="alt text">
   <figcaption>Figure: Different zones to embrace to be successful.</figcaption>
 </figure>
-
-
+<br/><br/>
 By the time you reach the growth zone, you are more resilient and ready to embrace any challenges and overcome them.
 Remember that leaving your comfort zone is good and should be accompanied by work. You should not only work hard but smart.
 
