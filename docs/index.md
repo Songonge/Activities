@@ -26,13 +26,11 @@ If you are in your comfort zone and do not improve on anything, this could be a 
 
 > [!IMPORTANT]
 > You should leave your comfort zone and go through other zones such as the fear zone, learning zone, and growth zone if you want to achieve more.
-<img src="https://github.com/Songonge/Activities/blob/main/docs/ComfortZone.png" width=50% height=50% alt="Alt text" title="Optional title">
 
 <figure>
   <img src="https://github.com/Songonge/Activities/blob/main/docs/ComfortZone.png" width=50% height=50% alt="alt text">
   <figcaption>Figure: Different zones to embrace to be successful.</figcaption>
 </figure>
-
 
 By the time you reach the growth zone, you are more resilient and ready to embrace any challenges and overcome them.
 Remember that leaving your comfort zone is good and should be accompanied by work. You should not only work hard but smart.
