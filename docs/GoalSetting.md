@@ -111,6 +111,7 @@ In addition to what has been said above regarding goals, you should note that a 
 * A narrative statement
 * An "I Deserve It" statement
 * A personal signature
+  
 
 > [!CAUTION]
 > If you have not yet written your personal mission statement or your short- and long-term goals, I hope you are now well-equipped to do so.
