@@ -116,4 +116,4 @@ In addition to what has been said above regarding goals, you should note that a 
 > If you have not yet written your personal mission statement or your short- and long-term goals, I hope you are now well-equipped to do so.
 
 # References
-Sherfield, R.M. (2013). Building a Life Plan Through Goal Setting. In Cornerstones for professionalism (pp. 71-87), 2nd edition. Upper Saddle River, NJ.: Pearson Education
+Sherfield, R.M. (2013). Building a Life Plan Through Goal Setting. In Cornerstones for professionalism (pp. 71-87), 2nd edition. Upper Saddle River, NJ.: Pearson Education 
