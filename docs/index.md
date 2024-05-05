@@ -29,8 +29,8 @@ If you are in your comfort zone and do not improve on anything, this could be a 
 <img src="https://github.com/Songonge/Activities/blob/main/docs/ComfortZone.png" width=50% height=50% alt="Alt text" title="Optional title">
 
 <figure>
-  <img src="https://github.com/Songonge/Activities/blob/main/docs/ComfortZone.png" alt="alt text">
-  <figcaption>Image Caption</figcaption>
+  <img src="https://github.com/Songonge/Activities/blob/main/docs/ComfortZone.png" width=50% height=50% alt="alt text">
+  <figcaption>Figure: Different zones to embrace to be successful.</figcaption>
 </figure>
 
 
