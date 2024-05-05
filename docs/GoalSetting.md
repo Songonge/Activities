@@ -51,7 +51,7 @@ I want to challenge you to take your journal, planning, or notebook and write do
 
 The following figure lists some of the items you can value in your life.
 <figure>
-  <img src="https://github.com/Songonge/Activities/blob/main/docs/ValueItems.png" width=40% height=40% alt="alt text">
+  <img src="https://github.com/Songonge/Activities/blob/main/docs/ValueItem.png" width=40% height=40% alt="alt text">
   <figcaption>Figure: What do you value in your life?</figcaption>
 </figure>
 <br/><br/>
