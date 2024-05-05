@@ -30,8 +30,7 @@ If you are in your comfort zone and do not improve on anything, this could be a 
 The figure below describes different zones to enter after leaving the comfort zone.
 <figure>
   <img src="https://github.com/Songonge/Activities/blob/main/docs/ComfortZone.png" width=50% height=50% alt="alt text">
-  <figcaption>Figure: Different zones to embrace to be successful [Link](https://ricraftis.au/personal-development/moving-beyond-your-comfort-zone-a-path-to-personal-growth/
-).</figcaption>
+  <figcaption>Figure: Different zones to embrace to be successful [Link](https://ricraftis.au/personal-development/moving-beyond-your-comfort-zone-a-path-to-personal-growth/)</figcaption>
 </figure>
 <br/><br/>
 By the time you reach the growth zone, you are more resilient and ready to embrace any challenges and overcome them.
