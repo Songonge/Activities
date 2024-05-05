@@ -27,9 +27,11 @@ If you are in your comfort zone and do not improve on anything, this could be a 
 > [!IMPORTANT]
 > You should leave your comfort zone and go through other zones such as the fear zone, learning zone, and growth zone if you want to achieve more.
 
+The figure below describes different zones to enter after leaving the comfort zone.
 <figure>
   <img src="https://github.com/Songonge/Activities/blob/main/docs/ComfortZone.png" width=50% height=50% alt="alt text">
-  <figcaption>Figure: Different zones to embrace to be successful.</figcaption>
+  <figcaption>Figure: Different zones to embrace to be successful [Link](https://ricraftis.au/personal-development/moving-beyond-your-comfort-zone-a-path-to-personal-growth/
+).</figcaption>
 </figure>
 <br/><br/>
 By the time you reach the growth zone, you are more resilient and ready to embrace any challenges and overcome them.
@@ -48,6 +50,12 @@ I want to challenge you to take your journal, planning, or notebook and write do
 + Who is (are) truly important to you?
 + What and who makes a difference in your life?
 
+The following figure lists some of the items you can value in your life.
+<figure>
+  <img src="https://github.com/Songonge/Activities/blob/main/docs/ValueItems.png" width=40% height=40% alt="alt text">
+  <figcaption>Figure: What do you value in your life?</figcaption>
+</figure>
+<br/><br/>
 If you can determine what you value, you will be able to determine where you are headed. That is called **VISION**.
 What you do to arrive at your destination, how you do it, and why you do it is called **MISSION**. Hence, your mission is what leads you to your vision.
 
@@ -60,7 +68,7 @@ Your vision and mission statements are what keep you going in life.
 > * What do I value, believe in, and stand for?
 > * What action plan do I need to put in place to complement my purpose in life? 
 
-### Tips for Writing a Good Mission Statement
+## Tips for Writing a Good Mission Statement
 You should bear in mind that to answer the questions in the last paragraph, you can refer to the following three specific questions:
 * What do I want to be? This can be related to your aspiring profession, relationship with others, and/or the person you would like to be.
 * What do I want to do? This can include the type of activities you would like to do or any actions you would like to take.
@@ -73,7 +81,7 @@ In case you still have some doubts about where to start, the tips below will hel
 > + Use direct statements and strong action verbs to emphasize the impact you want to have.
 > + Leave room for the mission to evolve. You will update it anytime as you move through your life.
 
-## Writing Goals
+## Writing SMART Goals
 To accomplish your mission or purpose in life, you must write your goals: short-term and long-term. Writing goals 
 - Makes you clarify what you really want in life.
 - Helps you be successful when you act on them.
@@ -91,5 +99,22 @@ As an example, when you plan your day the night before going to be, you wake up 
 > * Realistic and Relevant
 > * Time Structured or Trackable
 
+Your long-term goal can fall within any of the categories given in the figure below.
+<figure>
+  <img src="https://github.com/Songonge/Activities/blob/main/docs/GoalsCategories.png" width=40% height=40% alt="alt text">
+  <figcaption>Figure: Long-term goal categories.</figcaption>
+</figure>
+<br/><br/>
 
+In addition to what has been said above regarding goals, you should note that a well-written, exciting, and effective goal should have 
+* A target date
+* Action steps
+* A narrative statement
+* An "I Deserve It" statement
+* A personal signature
 
+> [!CAUTION]
+> If you have not yet written your personal mission statement or your short- and long-term goals, I hope you are now well-equipped to do so.
+
+# References
+Sherfield, R.M. (2013). Building a Life Plan Through Goal Setting. In Cornerstones for professionalism (pp. 71-87), 2nd edition. Upper Saddle River, NJ.: Pearson Education
