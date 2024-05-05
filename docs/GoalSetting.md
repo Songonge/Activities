@@ -1,4 +1,4 @@
-# Title: Building a Life Plan Through Goal Setting
+# Building a Life Plan Through Goal Setting
 
 ## Be Able To
 This document provides some guidelines on how to set meaningful goals. By reading this document, you will be able to:
