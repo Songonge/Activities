@@ -21,6 +21,7 @@ The good news is that there are **5 questions** we can ask ourselves to know our
 > [!NOTE]
 > But wait! Do you feel like you are exactly where you are supposed to be? Do you feel like you do not need to stress about anything? It may happen that being in your  you still reach your destination. That is very rare!
 ![comfort zone](https://github.com/Songonge/Activities/blob/main/docs/ComfortZone.png)
+<img src="https://github.com/Songonge/Activities/blob/main/docs/ComfortZone.png" width=50% height=50%>
 Remember that if you are too COMFORTABLE, then you are not doing anything but wasting your TIME and your LIFE. It is good to be challenged and conflicted with your goals and plans.
 If you are in your comfort zone and do not improve on anything, this could be a red flag that something must be done. You should get out of your comfort zone, face the world, and embrace challenges. this should be done daily.
 
